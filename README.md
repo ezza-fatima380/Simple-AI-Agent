@@ -1,2 +1,11 @@
-# Simple-AI-Agent
-A simple AI agent that can answer questions, do basic tasks, and demonstrate agent behavior using Python. Perfect for learning and extending AI agent projects.
+# Simple AI Agent 🤖
+
+This repository demonstrates a **basic AI agent** that can:
+- Answer questions
+- Perform simple tasks
+- Be extended for more advanced AI capabilities
+
+## Usage
+1. Install dependencies:
+```bash
+pip install -r requirements.txt
